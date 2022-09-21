@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github page
+
+- 🔭 I’m currently working on Team Project
+- 🌱 I’m currently learning PostgresSQL
+- 🤔 I’m looking for help with AWS
+- 💬 Ask me about MERN stack development
+
 
 <!--
 **hudir/hudir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
