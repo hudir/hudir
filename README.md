@@ -1,9 +1,10 @@
 ### Hi there 👋 Welcome to my Github page
 
 - 🔭 I’m currently working on Final Project
-- 🌱 I’m currently learning PostgresSQL
-- 🤔 I’m looking for help with AWS
+- 🌱 I’m currently learning testing with chai
+- 🤔 I’m looking for help with java
 - 💬 Ask me about MERN stack development
+- 📫 How to reach me: hudirybw@gmail.com
 
 
 <!--
