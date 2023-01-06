@@ -1,8 +1,8 @@
 ### Hi there 👋 Welcome to my Github page
 
-- 🔭 I’m currently working on Final Project
-- 🌱 I’m currently learning testing with chai
-- 🤔 I’m looking for help with java
+- 🔭 I’m currently doing an internship
+- 🌱 I’m currently learning java
+- 🤔 I’m looking for Döner!
 - 💬 Ask me about MERN stack development
 - 📫 How to reach me: hudirybw@gmail.com
 
