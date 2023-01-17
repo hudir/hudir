@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my Github page
 
-- 🔭 I’m currently doing an internship
+- 🔭 I’m currently looking for a job
 - 🌱 I’m currently learning java
 - 🤔 I’m looking for Döner!
 - 💬 Ask me about MERN stack development
