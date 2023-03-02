@@ -1,8 +1,7 @@
 ### Hi there 👋 Welcome to my Github page
 
-- 🔭 I’m currently looking for a job
+- 🔭 I’m currently looking for Döner
 - 🌱 I’m currently learning python
-- 🤔 I like Döner!
 - 💬 Ask me about MERN stack development
 - 📫 How to reach me: hudirybw@gmail.com
 
