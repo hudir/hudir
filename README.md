@@ -1,8 +1,8 @@
-### Hi there 👋 Welcome to my Github page
+### Welcome to my Github page 👋
 
 - 🔭 I’m currently looking for Döner
-- 🌱 I’m currently learning python
-- 💬 Ask me about MERN stack development
+- 🌱 I’m currently learning PHP/Typo3/python
+- 💬 Ask me about MERN/JAM stack development
 - 📫 How to reach me: hudirybw@gmail.com
 
 
