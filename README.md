@@ -1,8 +1,10 @@
 ### Welcome to my Github page 👋
 
-- 🔭 I’m currently looking for Döner
-- 🌱 I’m currently learning PHP/Typo3/python
-- 💬 Ask me about MERN/JAM stack development
+- 🔭 I’m currently looking for Döner.
+- 🔭 I’m currently working on CMS.
+  - 💬 PHP: WordPress and Typo3.
+  - ⚡ JAM Stack: Nuxt with Storyblok
+- 🌱 I’m currently learning Typo3/K8s.
 - 📫 How to reach me: hudirybw@gmail.com
 
 
